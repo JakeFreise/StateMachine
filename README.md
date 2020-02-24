@@ -7,7 +7,7 @@ To use in unity simple download the plugins folder and import it into your proje
 more details in the PDF
 
 Example of implementation using Craig Reynolds Boid behaviors to control fish AI. 
-(Green fish chase blue fish)
+In this instance, green fish chase blue fish.
 
 https://www.youtube.com/watch?v=H8fWJYYAyzc
 
