@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=H8fWJYYAyzc
 
 Fish AI can be found in "Scripts" folder
 
+Provided model is located at Scripts/Fishmodel.stmx
+
