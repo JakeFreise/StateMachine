@@ -11,3 +11,5 @@ In this instance, green fish chase blue fish.
 
 https://www.youtube.com/watch?v=H8fWJYYAyzc
 
+Fish AI can be found in "Scripts" folder
+
