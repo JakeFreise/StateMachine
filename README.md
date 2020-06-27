@@ -17,4 +17,4 @@ Fish AI can be found in "Scripts" folder
 
 Model provided to the simulator is located at Scripts/Fishmodel.stmx
 
-![https://imgur.com/TC56pBG](https://imgur.com/TC56pBG)
+![Model](https://i.imgur.com/TC56pBG.png)
