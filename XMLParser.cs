@@ -223,6 +223,7 @@ namespace XMLParser
             int target = 0;
             
             //find which line segment our x fits into 
+            //TODO: currently n time, need faster implenetation to protect against very high resolution graphical functions. 
             for (int counter = 0; counter < points.Length; counter++)
             {
                 if (x < points[counter, 0])
