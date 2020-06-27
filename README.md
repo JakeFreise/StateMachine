@@ -20,4 +20,5 @@ Model provided to the simulator is located at Scripts/Fishmodel.stmx
 ![Model](https://i.imgur.com/TC56pBG.png)
 -5.1 in PDF
 
-These show the mechanics that drive fish population dynamics. In this instance the fish capacity variable is hardcoded for simplicity as this is supposed to be a simple demonstration. In practice this variable would be controled be a multitude of factors such as food availibility. 
+These show the mechanics that drive fish population dynamics. In this instance the fish capacity variable is hardcoded for simplicity as this is supposed to be a simple demonstration. In practice this variable could be controled be a multitude of factors such as food availibility. 
+
