@@ -16,6 +16,8 @@ namespace Simulation
             //run 30 timesteps and print the number of fish at each time step.
             for (int counter = 0; counter < 30; counter++)
             {
+                //Programmers need to know key terms from the model such as "Fish" to access the stock variable 'Fish' in the model.
+                //These can be found in the .stmx model file
                 Console.WriteLine("Fish = " + testModel.getVariable("Fish"));
                 //Console.WriteLine("Difference = " + testModel.getDifference("Fish"));
                 testModel.Simulate();
